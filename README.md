@@ -14,3 +14,5 @@ This microservice predicts equipment failures based on sensor data using machine
 - Modular design for training, serving, and testing.
 
 ---
+
+![alt text](<Screenshot 2025-03-30 173711.png>) ![alt text](<Screenshot 2025-03-30 173828.png>) ![alt text](<Screenshot 2025-03-30 173812.png>) ![alt text](<Screenshot 2025-03-30 173757.png>) ![alt text](<Screenshot 2025-03-30 173740.png>) ![alt text](<Screenshot 2025-03-30 173726.png>)
