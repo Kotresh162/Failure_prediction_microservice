@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# Model and data files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.onnx
+*.sav
+*.npy
+*.npz
+
+# Log files
+*.log
+
+# Test outputs
+test_results/
+coverage/
+*.cover
+*.py,cover
+coverage.xml
+*.log
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# FastAPI / Uvicorn specific
+*.db
+instance/
+*.sqlite3
+
+# Cache / temporary files
+.cache/
+*.tmp
+*.swp
+
+# Environment variable files
+.env
+.env.*
+
+# Output folders
+dist/
+build/
+__dist__/
+__build__/
+
+# MyPy and Pyright
+.mypy_cache/
+.pyright/
